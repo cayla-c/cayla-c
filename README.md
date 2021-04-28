@@ -1,14 +1,16 @@
-### Hi there 👋
+## About Me
 
-## I'm Cayla Cardiff
+- :computer:  Full-stack software engineer
+- :smile: Pronouns: she/her/hers
+- :metal:  Graduated from the University of Texas at Austin - twice!
+- :mortar_board:  Graduated Hack Reactor Austin, Cohort 53
+- :musical_note:  Excited to combine music and coding!
+- :round_pushpin: Located outside of Austin, TX
 
 [![LinkedIn](https://img.shields.io/badge/cayla--c%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cayla-cardiff)](http://www.linkedin.com/in/cayla-cardiff/)
 [![GitHub](https://img.shields.io/badge/cayla--c%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/cayla-c)](https://github.com/cayla-c)
 [![Gmail](https://img.shields.io/badge/cayla.cardiff%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:cayla.cardiff@gmail.com)](mailto:cayla.cardiff@gmail.com)
 
-- :office: Looking for a fun job!
-- :round_pushpin: Located outside of Austin, TX
-- :smile: Pronouns: she/her/hers
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
