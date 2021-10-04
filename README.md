@@ -2,9 +2,8 @@
 
 - :computer:  Full-stack software engineer
 - :smile: Pronouns: she/her/hers
-- :metal:  Graduated from the University of Texas at Austin - twice!
+- :metal:  Graduated from the University of Texas at Austin
 - :mortar_board:  Graduated Hack Reactor Austin, Cohort 53
-- :musical_note:  Interested in ways to combine music and coding!
 - :round_pushpin: Located outside of Austin, TX
 
 [![LinkedIn](https://img.shields.io/badge/cayla--c%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cayla-cardiff)](http://www.linkedin.com/in/cayla-cardiff/)
