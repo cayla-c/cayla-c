@@ -1,7 +1,7 @@
 ## About Me
 
 - :computer:  Full-stack software engineer
-- 🔍 QA Engineer
+- 🔍 QA engineer
 - :smile: Pronouns: she/her/hers
 - :metal:  Graduated from the University of Texas at Austin
 - :mortar_board:  Graduated Hack Reactor Austin
