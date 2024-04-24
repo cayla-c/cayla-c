@@ -1,6 +1,5 @@
 ## About Me
 
-- :computer:  Full-stack software engineer
 - 🔍 QA engineer
 - :smile: Pronouns: she/her/hers
 - :metal:  Graduated from the University of Texas at Austin
@@ -23,4 +22,3 @@
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
